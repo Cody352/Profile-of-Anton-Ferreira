@@ -1,51 +1,49 @@
-h1{
-    color: rgb(250, 168, 135);
-    font-family: monospace;
-    font-weight: 700;
+h1 {
+  color: rgb(250, 168, 135);
+  font-family: monospace;
+  font-weight: 700;
 }
 
-body{
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(210, 252, 252);
+body {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(210, 252, 252);
 }
 
-.jumbotron{
-    background-image: url(https://images.unsplash.com/photo-1557853197-aefb550b6fdc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
-    background-size: cover; 
-    height: 300px;
+.jumbotron {
+  background-image: url(https://images.unsplash.com/photo-1557853197-aefb550b6fdc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+  height: 300px;
 }
 
-table, th, td {
-    border: 2px solid black;
-    width: 800px;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
+table,
+th,
+td {
+  border: 2px solid black;
+  width: 800px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
 }
 
-.btn{
-    margin: 50px;
+.btn {
+  margin: 50px;
 }
 
-.thumbnail{
-    max-height: 250px;
-    max-width: 250px;
-    text-align: center;
-    margin: auto;
+.thumbnail {
+  max-height: 200px;
+  max-width: 200px;
+  text-align: center;
+  margin: auto;
 }
 
-table{
-    margin-top: 30px;
-    margin-bottom: 30px;
+table {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
-
-
-
-
 
 /* Remove bullet points from items in navbar */
 /* ul {
@@ -57,14 +55,3 @@ li{
     font-weight: 900;
     font-size: large;
 } */
-
-
-
-
-
-
-
-
-
-
-
